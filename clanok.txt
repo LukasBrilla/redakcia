@@ -6,7 +6,7 @@ Jedného dňa som si povedal, že sa začnem
 zaujímať o SmartGit. Nemal som na výber,
 lebo chcem jednotku.
 ----
-Toto je obsah 
-tohto obsahu 
-tohto diela.
+toto je obsah 
+tohto clanku
+tohto zadania
 ----
