@@ -10,3 +10,6 @@ toto je obsah
 tohto clanku
 tohto zadania
 ----
+Toto je zaver
+a jeho druha
+verzia
