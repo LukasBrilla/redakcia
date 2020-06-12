@@ -10,3 +10,6 @@ toto je obsah
 tohto clanku
 tohto zadania
 ----
+Je tu novy zaver
+a jeho prva
+verzia
