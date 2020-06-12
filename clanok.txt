@@ -2,9 +2,9 @@ Autor: Lukáš Brilla
 Nazov: Ako som dostal jednotku z PJF
 Datum: 12.6.2020
 ----
-Toto je nový úvod,
-ktorý je a bude,
-jeho prva verzia
+Je tu nový 
+úvod, ktorý sme mali
+prerobiť, druha verzia
 ----
 toto je obsah 
 tohto clanku
