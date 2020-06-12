@@ -2,9 +2,9 @@ Autor: Lukáš Brilla
 Nazov: Ako som dostal jednotku z PJF
 Datum: 12.6.2020
 ----
-Jedného dňa som si povedal, že sa začnem 
-zaujímať o SmartGit. Nemal som na výber,
-lebo chcem jednotku.
+Je tu nový 
+úvod, ktorý sme mali
+prerobiť, druha verzia
 ----
 toto je obsah 
 tohto clanku
